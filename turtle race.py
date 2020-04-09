@@ -87,10 +87,10 @@ turtle4.pendown()
 
 
 for i in range(145) :
-    turtle1.forward(randint(1,5))
-    turtle2.forward(randint(1,5))
-    turtle3.forward(randint(1,5)) 
-    turtle4.forward(randint(1,5))
+    turtle1.forward(randint(1,10))
+    turtle2.forward(randint(1,20))
+    turtle3.forward(randint(1,57)) 
+    turtle4.forward(randint(1,30))
 
 turtle.exitonclick()
 window.title(" green won")
